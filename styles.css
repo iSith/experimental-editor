@@ -1,3 +1,16 @@
+/* General styles for everything */
 body {
   background-color: rgb(40, 40, 40);
+  font-family: 'Inconsolata', monospace;
+}
+
+#editor {
+  font-family: 'Inconsolata', monospace;
+  background-color: rgb(40, 40, 40);
+  color: white;
+  margin: 0px;
+  width: 1572px;
+  height: 744px;
+  font-size: 25px;
+  border: none;
 }
