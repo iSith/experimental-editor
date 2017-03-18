@@ -1,2 +1,2 @@
 # experimental-editor
-An editor I made to test it out.
+A text editor made with HTML and CSS
